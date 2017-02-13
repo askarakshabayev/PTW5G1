@@ -1,0 +1,6 @@
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\W5Snake\W5Snake\bin\Debug\W5Snake.exe.config
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\W5Snake\W5Snake\bin\Debug\W5Snake.exe
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\W5Snake\W5Snake\bin\Debug\W5Snake.pdb
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\W5Snake\W5Snake\obj\Debug\W5Snake.csprojResolveAssemblyReference.cache
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\W5Snake\W5Snake\obj\Debug\W5Snake.exe
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\W5Snake\W5Snake\obj\Debug\W5Snake.pdb
